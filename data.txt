@@ -1,5 +1,1 @@
-			
-	Name	Age	Content
-	Jainam	19	I am great
-	J	17	hello
-	Hello	58	Hi
+
